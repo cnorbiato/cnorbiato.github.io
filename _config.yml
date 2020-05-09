@@ -1,7 +1,7 @@
-title: devlopr
-subtitle: A Jekyll Theme Built for Developers
+title: Caio Norbiato
+subtitle: Desenvolvimento, Engenharia de Software e Tecnologia
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  Página de perfil e informações de Caio Norbiato
 
 url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,10 +11,6 @@ urls:
       url: /about
     - text: Blog
       url: /blog
-    - text: Galeria
-      url: /gallery
-    - text: Lojinha
-      url : /shop
     - text: Contato
       url : /contact
 
@@ -26,28 +22,22 @@ author_bio: Olá, me chamo Caio. Sou desenvolvedor e engenheiro de software :D
 author_email: "caio@norbiato.net"
 author_location: Brasil
 author_website_url: "https://norbiato.net"
-typewrite-text: devlopr is a jekyll theme built for developers. You can edit this in _config.yml file
+typewrite-text: Deixando minha marca em linhas de código
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
+            - company_name: Itaú Unibanco
+              company_logo: itau.png
+              company_url: https://www.itau.com.br
+              designation: Engenheiro de Software
               description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
               visibility: true
 
 author_education_details:
               - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+                college_name: FIAP
+                college_url: https://www.fiap.com.br
+                college_degree: Fullstack (Cloud, IoT)
+                description: MBA
                 visibility: true
 
 author_project_details:
