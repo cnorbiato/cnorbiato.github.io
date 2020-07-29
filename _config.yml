@@ -33,7 +33,7 @@ author_work_experiences:
               visibility: false
 
 author_education_details:
-              - college_logo: fiap.png
+              - college_logo: logofiap.png
                 college_name: FIAP
                 college_url: https://www.fiap.com.br
                 college_degree: Fullstack (Cloud, IoT)
@@ -77,7 +77,7 @@ permalink: pretty
 google_analytics: UA-46783401-10
 
 # Choose what to show ( can be true or false)
-show_author_work_experiences: true
+show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: true
 
