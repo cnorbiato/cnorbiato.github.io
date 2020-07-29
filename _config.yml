@@ -29,27 +29,22 @@ author_work_experiences:
               company_logo: itau.png
               company_url: https://www.itau.com.br
               designation: Engenheiro de Software
-              description: Worked on various Google Products
-              visibility: true
+              description: Produtos de empréstimos.
+              visibility: false
 
 author_education_details:
-              - college_logo: mit.png
+              - college_logo: fiap.png
                 college_name: FIAP
                 college_url: https://www.fiap.com.br
                 college_degree: Fullstack (Cloud, IoT)
                 description: MBA
                 visibility: true
-
+                
 author_project_details:
-              - project_thumbnail: gamershub.png
-                project_title: Gamers Hub
-                project_description: A Platform built for Gamers and Game Devs
-                project_url: https://gamershub.in
-                visibility: true
-              - project_thumbnail: hack4r.PNG
-                project_title: Hack4r
-                project_description: A Platform built for Hackers and Penetration Testers
-                project_url: https://hack4r.com
+              - project_thumbnail: wepad.png
+                project_title: WePad
+                project_description: Website da Agência WePad
+                project_url: https://www.wepad.com.br
                 visibility: true
 
 # social links
